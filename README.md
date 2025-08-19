@@ -10,7 +10,7 @@
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
 - 🧱 Building Pixel-Perfect Web Interfaces.
-- 🌐 Explore my other projects at **YOUR_PORTFOLIO**.
+- 🌐 Explore my other projects at **[MY PORTFOLIO](https://v0-jigar-soni-portfolio.vercel.app/)**.
 - 💬 Ask me about **Web Development, UI/UX, React, Framer Motion, Figma**.
 - 📫 Reach me at **jigarsoni850@gmail.com**.
 - 🧾 Dive into my experiences with my **[Resume](https://drive.google.com/file/d/1B91-XFH9ohvolW4auTjlmN_ZmIA-g3eN/view?usp=sharing)**.
