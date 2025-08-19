@@ -7,15 +7,13 @@
 
 <p><em>I'm a UI/UX-oriented Web developer.</em></p>
 
-<!-- Right-side illustration (optional) -->
-<img align="right" alt="Coding" width="360" src="./assets/coder-illustration.png" />
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
 - 🧱 Building Pixel-Perfect Web Interfaces.
 - 🌐 Explore my other projects at **YOUR_PORTFOLIO**.
 - 💬 Ask me about **Web Development, UI/UX, React, Framer Motion, Figma**.
-- 📫 Reach me at **YOUR_EMAIL**.
-- 🧾 Dive into my experiences with my **[Resume](https://docs.google.com/document/d/1SeZH_lneyh8ltDdCDWBCIav6RFuWkn2KooMag_-tzTs/edit?usp=sharing)**.
+- 📫 Reach me at **jigarsoni850@gmail.com**.
+- 🧾 Dive into my experiences with my **[Resume](https://drive.google.com/file/d/1B91-XFH9ohvolW4auTjlmN_ZmIA-g3eN/view?usp=sharing)**.
 - 🎨 Fun fact: Apart from coding, I'm also an **Artist/Photographer/Video-Editor**!
 
 ---
