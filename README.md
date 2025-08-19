@@ -1,10 +1,3 @@
-<!--
-🌟 GitHub Profile README Template (DevrajDC-style) for @jigarsoni786
-Instructions:
-1) Put your banner and illustration inside /assets then update the file names below.
-2) Find & replace all CAPS placeholders like YOUR_NAME, YOUR_EMAIL, YOUR_PORTFOLIO, etc.
-3) Commit this README.md to a repo named exactly your GitHub username: jigarsoni786
--->
 
 <p align="center">
   <img src="./assets/banner.png" alt="Jigar Soni — Web Developer | UI/UX Designer" width="100%" />
